@@ -9,10 +9,10 @@
 <!Doctype html> : html5 사용할 것을 선언.
 <html lang = "en"> : 웹페이지의 언어를 지정. "en"은 englist. 영어를 의미한다.
 <head> ~ </head>: 이 태그 안에는 HTML 문서의 메타데이터를 포함.  이 부분은 브라우저에 표시되지 않고, 문서의 제목, 문자 인코딩, 스타일시트 링크 등과 같은 정보를 포함합니다.
-<meta charset="UTF-8">: 이 메타 태그는 HTML 문서의 문자 인코딩을 UTF-8로 설정.
+<meta charset="UTF-8">: 이 메타 태그는 HTML 문서의 문자 인코딩을 UTF-8로 설정
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
- :이 메타 태그는 모바일 기기에서 웹 페이지가 올바르게 표시되도록 도와주는 뷰포트 설정을 지정합니다. width=device-width는 뷰포트의 너비를  디바이스의 너비와 동일하게 설정하고, initial-scale=1.0은 페이지를 최초로 로딩할 때 100% 확대로 표시하도록 설정.
+ :이 메타 태그는 모바일 기기에서 웹 페이지가 올바르게 표시되도록 도와주는 뷰포트 설정을 지정. width=device-width는 뷰포트의 너비를  디바이스의 너비와 동일하게 설정하고, initial-scale=1.0은 페이지를 최초로 로딩할 때 100% 확대로 표시하도록 설정.
 
 <title>GDSC Hongik</title>: 이 태그는 웹 페이지의 제목을 정의합니다. 이 타이틀은 브라우저의 탭에 표시
 <link rel="stylesheet" href="style.css">: 이 태그는 외부 스타일시트를 HTML 문서에 연결합니다. 여기서는 "style.css" 파일을 가져와서 HTML 문서에 스타일을 적용합니다.
@@ -23,7 +23,7 @@
 h1~h6까지 존재. h6으로 갈수록, 글자 크기가 작아짐. 
 
 
-# 웹의 역사
+## 웹의 역사
 
 * 페이스북을 빼놓고, 웹 개발에 대해 이야기할 수 없다.
 * 2004년, 페이스북 탄생. 
