@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="./style.css" />
+  <title>GDSC_HOMEWORK!</title>
+</head>
+<body>
+  <div class="gdsctitle" id="title">GDSC Hongik!</div>
+  <div class = "button-group">
+    <button id="red">빨강</button>
+    <button id="blue">파랑</button>
+    <button id="green">초록</button>
+
+    <input type="text" id="textInput" placeholder="텍스트를 입력하세요">
+    <button id="changeTextBtn">텍스트 변경</button>
+  </div>
+
+  <div class="calculator" id="cal">계산기</div>
+  <input type="number" id="num1">
+  <select id="operator">
+    <option value="+">+</option>
+    <option value="-">-</option>
+    <option value="*">*</option>
+    <option value="/">/</option>
+  </select>
+  <input type="number" id="num2">
+  <button id="calculate">계산</button>
+  <p id="result"></p>
+
+  <div class="timer" id="t">타이머</div>
+  <input type="number" id="m" placeholder="분">
+  <input type="number" id="s" placeholder="초">
+  <button id="start">시작</button>
+  <button id="stop">중지</button>
+  <p id="timer"></p>
+
+  <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
