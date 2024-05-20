@@ -1,5 +1,5 @@
 # 랜더링 결과
-![htmlcsslab_result](https://github.com/Ryan0hwan/2024-1-Web-Study/assets/158720833/2983c596-56bb-4ae4-b9bf-580a13875784)
+![htmlcsslab_result](https://github.com/Ryan0hwan/2024-1-Web-Study/assets/158720833/40de173d-efcb-48c9-bf72-c2f261aed71f)
 
 # 과제하며 배운점
 
