@@ -9,3 +9,4 @@
 HTTP의 역사 및 특징. HTTPS와의 차이, REST API
 
 ### 4주차
+HTTP 상태코드, HTTP 헤더, 쿠키, 캐시
